@@ -1,1 +1,0 @@
-# Development-of-CPS-in-Real-Time-Bolt-Defect-Detection-using-ML-based-Automated-Quality-Control
